@@ -1,34 +1,13 @@
 #mainbody{
-background-color: white;
- margin: 5% 10% 5% 10%;
-   padding: 2%;
+   background-color: white;
+   margin: 5% 10% 5% 10%;
+   padding: 5%;
 }
-
-
-
-
 
 p{
-
-color:#6c6e70;
-font:normal 24px/26px 'Open Sans Italic',Arial,sans-serif;
-font-style:italic\9;
-text-align:left;
-clear:left;
-
-padding: 1em 0 1em 0;
-}
-
-.year {
-color: #4d4f51;
- font: italic bold 24px Georgia,serif;
-  text-decoration:none;
-  text-align:left;
-
-  display: inline-block;
-   overflow: hidden;
-  word-break:break-word;
-  float: left; width: 100%;
-  letter-spacing: -0.07px;
-  max-height: 34px;
+    color:#4f5254;
+    font:normal 24px/26px 'Open Sans Italic',Arial,sans-serif;
+    font-style:italic\9;
+    text-align:left;
+    clear:left;
 }
