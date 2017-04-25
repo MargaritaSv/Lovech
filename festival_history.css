@@ -1,0 +1,57 @@
+#mainbody{
+background-color: white;
+margin: 10px 20px 10px 20px;
+}
+
+.img {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    z-index: 1;
+}
+
+#Younger .img{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    border-style: inset;
+    top: 0%;
+    width:4%;
+
+}
+
+
+#mainbody{
+   margin: 5%;
+   padding: 2%;
+}
+
+
+
+p{
+     border-top-style: dotted;
+     border-color:orange;
+     color:#6c6e70;
+     font:normal 20px/22px 'Open Sans Italic',Arial,sans-serif;
+     font-style:italic\9;
+     text-align:center;
+     clear:left;
+
+     padding: 1em 0 1em 0;
+}
+
+
+
+.year {
+   color: #4d4f51;
+   font: italic bold 24px Georgia,serif;
+   text-decoration:none;
+   text-align:left;
+   display: inline-block;
+   overflow: hidden;
+   word-break:break-word;
+   float: left; width: 100%;
+   letter-spacing: -0.07px;
+   max-height: 34px;
+}
