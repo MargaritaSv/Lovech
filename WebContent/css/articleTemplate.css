@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+.container {
+	padding: 7% 7% 7%;
+}
+
+.inner {
+	position: relative;
+	display: block-inline;
+	padding: 0 0 10% 0;
+}
+
+img {
+	width: 40%;
+	float: left;
+	margin: 0 10% 0 0;
+}
+
+p, h3, h4 {
+	color: #000000;
+	font: normal 17px/19px 'Open Sans Italic', Arial, sans-serif;
+	font-style: italic\9;
+}
+
+h1 {
+	color: #000000;
+	font: normal 22px/24px 'Open Sans Italic', Arial, sans-serif;
+	font-style: italic\9;
+}
