@@ -9,8 +9,8 @@ public class DBConnection {
 	private static final String DB_HOSTNAME = "127.0.0.1";
 	private static final String DB_PORT = "3306";
 	private static final String DATABASE = "lovech_db";
-	private static final String DB_USER = "root";
-	private static final String DB_PASSWORD = "estifira74";
+	private static final String DB_USER = "*******";
+	private static final String DB_PASSWORD = "**********";
 
 	private static Connection con;
 
