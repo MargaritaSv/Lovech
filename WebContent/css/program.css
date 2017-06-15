@@ -1,0 +1,102 @@
+#idDV {
+	position: relative;
+	width: 90%;
+	margin: 0 auto;
+	background: #fff;
+}
+
+#menu {
+	position: relative;
+	padding: 20px 10px 20px 10px;
+}
+
+div.headerStyle {
+	background-color: #333;
+	margin: 0px;
+	padding: 20px 20px 10px 20px;
+	font-size: 24px;
+	color: #ffffff;
+	text-shadow: 1px 1px 1px #fff;
+	text-align: left;
+	font-weight: 400;
+	text-align: center;
+}
+
+div.productionAll {
+	position: relative;
+	text-align: center;
+	border-bottom: 2px outset #525d09;
+}
+
+div.space {
+	display: inline-block;
+	width: 2%;
+}
+
+div.dataProduction, div.production2, div.productionPlace, div.hourProduction
+	{
+	position: relative;
+	display: inline-block;
+}
+
+div.dataProduction {
+	width: 10%;
+}
+
+div.hourProduction {
+	width: 10%;
+	vertical-align: bottom;
+}
+
+div.production2 {
+	width: 45%;
+}
+
+div.productionPlace {
+	width: 23%;
+}
+
+h2.productionName {
+	font-size: 18px;
+	font-family: Georgia, serif;
+	font-style: italic;
+	color: #000000;
+}
+
+p.productionInfo {
+	font-size: 18px;
+	font-family: Georgia, serif;
+	font-style: italic;
+	color: #000000;
+}
+
+#date-upper {
+	margin: 0px;
+	font-size: 34px;
+	color: #333;
+	text-shadow: 1px 1px 1px #fff;
+	text-align: left;
+	font-weight: 400;
+}
+
+#color-text {
+	margin: 0px;
+	padding: 20px 20px 10px 20px;
+	font-size: 24px;
+	color: #333;
+	text-shadow: 1px 1px 1px #fff;
+	text-align: left;
+	font-weight: 400;
+	text-align: center;
+}
+
+#color-text-white {
+	margin: 0px;
+	padding: 20px 20px 10px 20px;
+	font-size: 24px;
+	color: #ffffff;
+	text-shadow: 1px 1px 1px #fff;
+	text-align: left;
+	font-weight: 400;
+	text-align: center;
+}
