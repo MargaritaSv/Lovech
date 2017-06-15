@@ -9,7 +9,7 @@
 <link href='<c:url value="css/footer.css"/>' rel="stylesheet">
 
 <script src="https://code.jquery.com/jquery-3.2.0.js"></script>
-<title>Английски уикенд</title>
+<title>Постановка</title>
 
 </head>
 <body>
